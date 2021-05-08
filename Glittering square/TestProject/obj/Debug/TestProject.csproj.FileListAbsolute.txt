@@ -1,0 +1,16 @@
+C:\Users\ssapi\Desktop\새 폴더\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\ssapi\Desktop\새 폴더\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\ssapi\Desktop\새 폴더\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\ssapi\Desktop\새 폴더\TestProject\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\ssapi\Desktop\새 폴더\TestProject\TestProject\obj\Debug\MainWindow.g.cs
+C:\Users\ssapi\Desktop\새 폴더\TestProject\TestProject\obj\Debug\MainApplication.g.cs
+C:\Users\ssapi\Desktop\새 폴더\TestProject\TestProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ssapi\Desktop\새 폴더\TestProject\TestProject\obj\Debug\TestProject_MarkupCompile.cache
+C:\Users\ssapi\Desktop\새 폴더\TestProject\TestProject\obj\Debug\TestProject_MarkupCompile.lref
+C:\Users\ssapi\Desktop\새 폴더\TestProject\TestProject\obj\Debug\MainWindow.baml
+C:\Users\ssapi\Desktop\새 폴더\TestProject\TestProject\obj\Debug\TestProject.g.resources
+C:\Users\ssapi\Desktop\새 폴더\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\ssapi\Desktop\새 폴더\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\ssapi\Desktop\새 폴더\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\ssapi\Desktop\새 폴더\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\ssapi\Desktop\새 폴더\TestProject\TestProject\obj\Debug\TestProject.pdb
